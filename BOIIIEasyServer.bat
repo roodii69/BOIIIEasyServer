@@ -5,7 +5,7 @@
 
 :: Choose a path where you want to install boiii server
 :: Example: set "BOIIIServerInstallPath=C:\Users\Administrator\Documents\bo3 server"
-set "BOIIIServerInstallPath="
+set "BOIIIServerInstallPath=C:\Users\mini\Desktop\t7 server"
 
 :: Choose a path where you want to install steamcmd
 set "SteamcmdInstallPath="
